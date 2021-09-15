@@ -22,5 +22,6 @@ In this module you will:
 - [Exercise - Implement a GitHub action to deploy to AKS](doc/implement-github-action-deploy-to-aks.md)
 - [Knowledge check](doc/knowledge-check.md)
 - [Summary](doc/summary.md)
+- [![eShop deploy](https://github.com/admsmw/mslearn-microservices-devops-aspnet-core/actions/workflows/deploy.yml/badge.svg)](https://github.com/admsmw/mslearn-microservices-devops-aspnet-core/actions/workflows/deploy.yml)
 
 | [START >](doc/introduction.md) |
